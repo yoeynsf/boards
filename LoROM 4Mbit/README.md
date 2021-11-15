@@ -7,6 +7,6 @@ This is licensed under the [TAPR Open Hardware License](www.tapr.org/OHL)
 
 ## Special Thanks 
 - lidnariq
-- [MouseBiteLabs](https://mousebitelabs.com/)
+- [@MouseBiteLabs](https://mousebitelabs.com/)
 
 For advice and help!
