@@ -4,11 +4,11 @@ EELAYER END
 $Descr User 6693 5591
 encoding utf-8
 Sheet 1 1
-Title ""
-Date ""
-Rev ""
-Comp ""
-Comment1 ""
+Title "LoROM 1-4Mbit"
+Date "2021-11-15"
+Rev "0.1"
+Comp "yoeynsf"
+Comment1 "No Battery or SRAM"
 Comment2 ""
 Comment3 ""
 Comment4 ""
