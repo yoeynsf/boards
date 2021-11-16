@@ -11,3 +11,7 @@ This is licensed under the [TAPR Open Hardware License](www.tapr.org/OHL)
 - [@Lockster-inc](https://github.com/Lockster-Inc)
 
 For advice and help!
+
+- [@Persune](https://github.com/Gumball2415)
+
+For supplying the cartridge pins!
