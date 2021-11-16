@@ -14,4 +14,4 @@ For advice and help!
 
 - [@Persune](https://github.com/Gumball2415)
 
-For supplying the cartridge pins!
+For supplying the cartridge pin footprint!
